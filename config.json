@@ -1,1 +1,11 @@
-{}
+{
+    "token": "TOKEN",
+    "d-token": "DEVLOPER TOKEN",
+    "v": "", # Which token to use? (pro=normal, dev=devlopment)
+    "guilds": [1257638427336376343], # Debug Guilds
+    "staff_role": 1257958943821398111, # Staff role
+    "core_team": 1257921147652149328, # Core team
+    "everyone": 1257958974402334804, # @member role
+    "log_channel": 1257638427877445737, # Log channel
+    "api": "AIzaSyD3mBxEx5d5CA9YLOkjHIQ6sQiicTG3KsA" # Gemini API key
+}
